@@ -1,0 +1,56 @@
+
+
+.dave {
+   padding:0 0 10px 0;
+   width: 540px;
+   height: auto;
+}
+
+.container {
+   padding: 40px 0 0 0;
+}
+
+.titleGame {
+    background-color: #350042;
+    color: white;
+    width: 540px;
+    padding: 10px 0 .5px 0px;
+    margin: 10px 0 20px 0;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    color: #fadd01;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+
+p {
+    width: 540px;
+}
+
+.row {
+    float: none;
+    margin: auto;
+    display: flex;
+}
+
+/* img {
+    border: #fadd01 1px solid;
+} */
+
+body {
+    /* background-color: black; */
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../images/psychic3.jpg);
+    background-size: 100% 100%;
+}
+
+
+
